@@ -1,4 +1,8 @@
 Hi
 My name is rajesh
+<<<<<<< HEAD
 New line is added to file
 hahsasfashdjahdj
+=======
+New line is added to file.
+>>>>>>> 43314bec3f60075f847e4983a62e3cdc23c0462c
